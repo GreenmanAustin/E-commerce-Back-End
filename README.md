@@ -18,7 +18,7 @@
 
   ## Usage
 
-  First create the database using the schema in the "db" folder.  Next, seed the database using the command "npm run seed." Then start the server using "npm start."  After this, use "Insomnia" or a similar software to test out the functionality as shown in the following video walk through - <a href="https://drive.google.com/file/d/1X4lObmd-NPNt9XoEV5H6DWcYhXVa7CXX/view?usp=sharing">Video Demonstration</a>
+  First create the database using the schema in the "db" folder.  Next, seed the database using the command "npm run seed." Then start the server using "npm start."  After this, use "Insomnia" or a similar software to test out the functionality as shown in the following video walk through - <a href="https://drive.google.com/file/d/11jvaywn2QrhxRcrQhNyD7Vndve7rKPu3/view?usp=sharing">Video Demonstration</a>
 
   ## Contributing
 
